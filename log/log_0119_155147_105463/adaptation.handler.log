@@ -1,0 +1,4 @@
+2021-01-19 15:52:03,218 INFO MainThread [File "handler.py", line 168, in _handle_action] set timestamp and snapshot for api:click 
+
+2021-01-19 15:52:29,390 INFO MainThread [File "handler.py", line 168, in _handle_action] set timestamp and snapshot for api:slide 
+

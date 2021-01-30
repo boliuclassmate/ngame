@@ -1,0 +1,28 @@
+2021-01-19 15:55:05,876 - Level 21 - run_probe.py main 375 - 开始执行
+2021-01-19 15:55:07,798 - Level 21 - run_probe.py main 402 - 启动应用，等待18秒
+2021-01-19 15:55:07,865 - INFO - run_probe.py main 412 - 启动应用完成
+2021-01-19 15:55:07,866 - INFO - scenedetector.py init 90 - recognize use web 0
+2021-01-19 15:55:07,866 - INFO - scenedetector.py init 91 - run mode local
+2021-01-19 15:55:07,866 - INFO - scenedetector.py init 113 - deviceid2XT0218B14005448
+2021-01-19 15:55:07,866 - INFO - scenedetector.py init 117 - is test server:0
+2021-01-19 15:55:07,889 - INFO - debugger.py __init__ 46 - debugger created
+2021-01-19 15:55:13,904 - INFO - proberunner.py run 140 - 执行超时时间为630秒
+2021-01-19 15:55:13,904 - INFO - proberunner.py run 152 - 开始识别场景
+2021-01-19 15:55:15,087 - INFO - scenedetector.py recognize_scene 316 - 获取信息耗时:1.1830296516418457
+2021-01-19 15:55:15,088 - INFO - scenedetector.py recognize_scene 335 - use local
+2021-01-19 15:55:15,092 - INFO - scenedetector.py _match_img_feature 743 - no pool
+2021-01-19 15:55:19,374 - INFO - scenedetector.py recognize_scene 342 - 识别耗时:4.285981178283691
+2021-01-19 15:55:19,374 - INFO - scenedetector.py recognize_scene 380 - 场景：scene_100004, 识别场景耗时：5.470009088516235
+2021-01-19 15:55:19,374 - INFO - proberunner.py _mark_traversing_scene 484 - [traverse] scene_100004
+2021-01-19 15:55:19,374 - INFO - scenelogger.py recognized 82 - [recognized] 15_55_19_374394_scene_100004_3_大厅.jpg
+2021-01-19 15:55:19,374 - INFO - scenelogger.py save_image 149 - save_imageC:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\log\log_0119_155505_681735\15_55_19_374394_scene_100004_3_大厅.jpg
+2021-01-19 15:55:19,390 - Level 21 - traverser.py run 285 - 首个场景识别为：3_大厅
+2021-01-19 15:55:19,390 - Level 21 - traverser.py run 301 - -->当前场景:3_大厅
+2021-01-19 15:55:19,390 - DEBUG - traverser.py run 302 - <Scene id:scene_100004,paths:['Path[available/retry/reuse:1/4/1 destScene:None locator:obj_100006.jpg]'],back:None>
+2021-01-19 15:55:19,390 - Level 21 - traverser.py run 317 - 剩余必经场景数量为 2
+2021-01-19 15:55:19,390 - INFO - traverser.py select_path 207 - 选择路径
+2021-01-19 15:55:19,390 - Level 21 - traverser.py run 343 - 选择路径:Path[available/retry/reuse:1/4/1 destScene:None locator:obj_100006.jpg]
+2021-01-19 15:55:19,390 - Level 21 - traverser.py run 346 - 预期场景:未知场景
+2021-01-19 15:55:19,390 - INFO - proberunner.py _mark_operation 502 - [operation] obj_100006
+2021-01-19 15:55:19,390 - INFO - actionhandler.py do_action 191 - OperationType.TYPE_SCRIPT obj_100006
+2021-01-19 15:55:19,390 - INFO - actionhandler.py do_action 192 - {'similarity': 0.7, 'gray': 0, 'index': -1, 'locator': 'obj_100005.jpg', 'by': 'CV', 'xOffset': 0, 'yOffset': 0, 'timeOut': 20, 'raiseException': 0, 'LongClickTime': 1, 'text': '', 'key': '', 'repeat': 1}

@@ -1,0 +1,206 @@
+2021-01-19 16:14:42,408 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:43,375 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:43,418 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 1.0893533709959273 
+
+2021-01-19 16:14:43,419 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:44,351 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:45,347 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:46,188 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:46,912 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:48,689 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:49,689 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:49,710 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.6377421221111697 
+
+2021-01-19 16:14:49,711 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:50,487 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:51,401 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:52,197 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:52,979 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:14:53,731 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+
+2021-01-19 16:14:54,873 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+
+2021-01-19 16:15:00,956 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:01,350 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:01,423 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:01,485 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:02,051 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:02,386 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:02,458 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:02,530 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:03,111 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:03,447 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:03,521 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:03,610 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:04,184 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:04,529 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:04,601 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:04,673 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:05,240 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:05,596 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:05,669 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:05,742 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:06,307 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:06,647 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:06,718 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:06,789 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:07,354 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:07,695 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:07,779 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:07,852 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:08,419 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:08,764 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:08,838 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:08,910 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:09,486 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:09,846 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:09,922 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:09,989 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:10,564 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:10,920 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:10,991 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:11,076 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:11,685 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:11,993 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:12,066 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:12,140 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:12,720 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:13,070 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:13,147 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:13,218 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:13,789 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:14,088 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:14,161 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:14,233 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:14,798 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:15,095 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:15,169 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:15,252 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:15,821 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:16,153 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:16,227 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:16,293 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:16,859 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:17,161 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:17,233 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:17,318 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:17,892 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:18,208 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:18,279 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:18,351 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:18,917 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:19,232 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:19,303 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:19,382 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:19,957 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:20,293 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:20,366 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:20,439 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:21,017 INFO MainThread [File "tmplatematcher.py", line 656, in _searchImage] TemplateImg position is unlocked 
+
+2021-01-19 16:15:21,329 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15008025569275457 
+
+2021-01-19 16:15:21,401 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15146809938341774 
+
+2021-01-19 16:15:21,473 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.15344588991781372 
+
+2021-01-19 16:15:24,625 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+
+2021-01-19 16:15:24,642 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+
+2021-01-19 16:15:24,644 INFO MainThread [File "tmplatematcher.py", line 181, in compare] hist result 0.02079162224988163 
+
+2021-01-19 16:15:28,747 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+
+2021-01-19 16:15:28,765 INFO MainThread [File "tmplatematcher.py", line 651, in _searchImage] TemplateImg position is locked,crop Img! 
+

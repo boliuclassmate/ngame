@@ -1,0 +1,122 @@
+2021-01-19 11:55:02,636 INFO MainThread [File "projwin.py", line 1398, in create] process has been created 
+
+2021-01-19 11:55:02,636 INFO MainThread [File "projwin.py", line 1418, in newClient] wait for process ready 
+
+2021-01-19 11:55:02,636 INFO MainThread [File "projwin.py", line 1439, in newClient] to create client 
+
+2021-01-19 11:55:02,795 INFO MainThread [File "device.py", line 742, in setup] setup device id:['2XT0218B14005448'] 
+
+2021-01-19 11:55:03,405 INFO MainThread [File "projwin.py", line 1445, in newClient] new client ok 
+
+2021-01-19 11:55:02,571 Level 97 MainThread [File "run_probe.py", line 376, in main] -----begin----- 
+
+2021-01-19 11:55:03,852 INFO MainThread [File "utils.py", line 550, in checkRunningEnv] begin to check running environment... 
+
+2021-01-19 11:55:03,902 INFO MainThread [File "utils.py", line 562, in checkRunningEnv] =========android device info:{"id": "2XT0218B14005448", "osversion": "9", "resolution": "(2340, 1080)", "brand": "HONOR", "model": "TNY-AL00", "name": "TNY-AL00", "platform": "ANDROID"}============= 
+
+2021-01-19 11:55:04,072 INFO MainThread [File "utils.py", line 596, in checkRunningEnv] wm size:Physical size: 1080x2340 
+
+2021-01-19 11:55:04,072 INFO MainThread [File "utils.py", line 165, in setWeTestIme] set wetest ime 
+
+2021-01-19 11:55:04,640 INFO PermissionWindowHandler [File "utils.py", line 463, in run] start permission window handler thread 
+
+2021-01-19 11:55:04,640 INFO PermissionWindowHandler [File "utils.py", line 466, in run] white list apps:['com.tencent.mobileqq', 'com.tencent.mm', 'com.tencent.tmgp.sgame'] 
+
+2021-01-19 11:55:04,641 INFO MainThread [File "utils.py", line 666, in startApp] ========start app:com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity=========== 
+
+2021-01-19 11:55:04,721 INFO MainThread [File "utils.py", line 124, in getCurrentApp] current app:com.tencent.tmgp.sgame 
+
+2021-01-19 11:55:04,723 INFO MainThread [File "utils.py", line 678, in startApp] App has been started! 
+
+2021-01-19 11:55:04,726 INFO MainThread [File "projwin.py", line 1398, in create] process has been created 
+
+2021-01-19 11:55:04,726 INFO MainThread [File "projwin.py", line 1418, in newClient] wait for process ready 
+
+2021-01-19 11:55:04,726 INFO MainThread [File "projwin.py", line 1439, in newClient] to create client 
+
+2021-01-19 11:55:04,726 INFO MainThread [File "projwin.py", line 1445, in newClient] new client ok 
+
+2021-01-19 11:55:04,753 INFO MainThread [File "projwin.py", line 1398, in create] process has been created 
+
+2021-01-19 11:55:04,753 INFO MainThread [File "projwin.py", line 1418, in newClient] wait for process ready 
+
+2021-01-19 11:55:04,754 INFO MainThread [File "projwin.py", line 1439, in newClient] to create client 
+
+2021-01-19 11:55:04,754 INFO MainThread [File "projwin.py", line 1445, in newClient] new client ok 
+
+2021-01-19 11:55:07,160 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_100005.jpg,  result: {"method": "template", "rect": [159, 20, 612, 232], "time": 0.0690758228302002, "scale_ratio": 0.99, "parameters": {"index": -1, "locator": "obj_100005.jpg", "by": "CV", "xOffset": 0, "yOffset": 0, "timeOut": 20, "raiseException": 0, "LongClickTime": 1, "text": "", "key": "", "repeat": 1, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:12,249 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_100005.jpg,  result: {"method": "template", "rect": [171, 22, 624, 234], "time": 0.02689838409423828, "scale_ratio": 0.99, "parameters": {"index": -1, "locator": "obj_100005.jpg", "by": "CV", "xOffset": 0, "yOffset": 0, "timeOut": 20, "raiseException": 0, "LongClickTime": 1, "text": "", "key": "", "repeat": 1, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0, "scaleRatio": 0.99}, "miscellaneous": {}} 
+
+2021-01-19 11:55:15,724 Level 100 MainThread [File "recorder.py", line 40, in traversing] 2_大厅 
+
+2021-01-19 11:55:15,725 Level 95 MainThread [File "userapi.py", line 58, in dating] click("obj_1610961813461.jpg",position=(0.918, 0.303, 0.948, 0.381),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:15,759 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1610961813461.jpg,  result: {"method": "template", "rect": [734, 111, 758, 139], "time": 0.003991603851318359, "scale_ratio": 1.0, "parameters": {"position": [0.918, 0.303, 0.948, 0.381], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:15,780 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1610961813461.jpg,  result: {"method": "template", "rect": [734, 111, 758, 139], "time": 0.0, "scale_ratio": 1.0, "parameters": {"position": [0.918, 0.303, 0.948, 0.381], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:15,780 Level 96 MainThread [File "corelib.py", line 336, in click] click  (734, 111, 758, 139)
+
+2021-01-19 11:55:15,864 INFO MainThread [File "userapi.py", line 59, in dating] 图片文字点击活动 
+
+2021-01-19 11:55:15,864 Level 95 MainThread [File "userapi.py", line 67, in dating] sleep(6) 
+
+2021-01-19 11:55:21,866 Level 95 MainThread [File "userapi.py", line 71, in dating] click("obj_1611026423169.jpg",position=(0.137, 0.638, 0.202, 0.724),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:21,883 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026423169.jpg,  result: {"method": "template", "rect": [109, 235, 160, 266], "time": 0.002961874008178711, "scale_ratio": 1.0, "parameters": {"position": [0.137, 0.638, 0.202, 0.724], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:21,913 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026423169.jpg,  result: {"method": "template", "rect": [109, 235, 160, 266], "time": 0.003983259201049805, "scale_ratio": 1.0, "parameters": {"position": [0.137, 0.638, 0.202, 0.724], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:21,913 Level 96 MainThread [File "corelib.py", line 336, in click] click  (109, 235, 160, 266)
+
+2021-01-19 11:55:22,014 Level 95 MainThread [File "userapi.py", line 79, in dating] sleep(4) 
+
+2021-01-19 11:55:26,014 Level 95 MainThread [File "userapi.py", line 83, in dating] click("obj_1611026902237.jpg",position=(0.629, 0.851, 0.711, 0.907),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:26,030 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026902237.jpg,  result: {"method": "template", "rect": [503, 314, 568, 334], "time": 0.002992391586303711, "scale_ratio": 1.0, "parameters": {"position": [0.629, 0.851, 0.711, 0.907], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:26,048 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026902237.jpg,  result: {"method": "template", "rect": [503, 314, 568, 334], "time": 0.001994609832763672, "scale_ratio": 1.0, "parameters": {"position": [0.629, 0.851, 0.711, 0.907], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:26,049 Level 96 MainThread [File "corelib.py", line 336, in click] click  (503, 314, 568, 334)
+
+2021-01-19 11:55:26,136 Level 95 MainThread [File "userapi.py", line 86, in dating] sleep(4) 
+
+2021-01-19 11:55:30,137 Level 95 MainThread [File "userapi.py", line 90, in dating] click("obj_1611026943988.jpg",position=(0.535, 0.811, 0.657, 0.879),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:30,153 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026943988.jpg,  result: {"method": "template", "rect": [428, 299, 525, 324], "time": 0.002992391586303711, "scale_ratio": 1.0, "parameters": {"position": [0.535, 0.811, 0.657, 0.879], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:30,237 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611026943988.jpg,  result: {"method": "template", "rect": [428, 299, 525, 324], "time": 0.003988027572631836, "scale_ratio": 1.0, "parameters": {"position": [0.535, 0.811, 0.657, 0.879], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:30,237 Level 96 MainThread [File "corelib.py", line 336, in click] click  (428, 299, 525, 324)
+
+2021-01-19 11:55:30,312 Level 95 MainThread [File "userapi.py", line 93, in dating] sleep(8) 
+
+2021-01-19 11:55:38,314 Level 95 MainThread [File "userapi.py", line 99, in dating] click("obj_1611027523911.jpg",position=(0.252, 0.155, 0.339, 0.433),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:38,332 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611027523911.jpg,  result: {"method": "template", "rect": [201, 57, 270, 159], "time": 0.004993438720703125, "scale_ratio": 1.0, "parameters": {"position": [0.252, 0.155, 0.339, 0.433], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:38,377 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611027523911.jpg,  result: {"method": "template", "rect": [201, 57, 270, 159], "time": 0.02976846694946289, "scale_ratio": 1.0, "parameters": {"position": [0.252, 0.155, 0.339, 0.433], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:38,377 Level 96 MainThread [File "corelib.py", line 336, in click] click  (201, 57, 270, 159)
+
+2021-01-19 11:55:38,468 Level 95 MainThread [File "userapi.py", line 102, in dating] sleep(6) 
+
+2021-01-19 11:55:44,469 Level 95 MainThread [File "userapi.py", line 106, in dating] click("obj_1611028099275.jpg",position=(0.654, 0.118, 0.691, 0.198),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:44,484 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611028099275.jpg,  result: {"method": "template", "rect": [523, 43, 552, 72], "time": 0.0029926300048828125, "scale_ratio": 1.0, "parameters": {"position": [0.654, 0.118, 0.691, 0.198], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:44,507 INFO MainThread [File "opencv.py", line 184, in searchImage] webmatcher request, queryImgFileName:C:\Users\bo.liu\Documents\scene_20210118wzry.uitrace\pic\obj_1611028099275.jpg,  result: {"method": "template", "rect": [523, 43, 552, 72], "time": 0.0029959678649902344, "scale_ratio": 1.0, "parameters": {"position": [0.654, 0.118, 0.691, 0.198], "position_lock": 0, "animation": 0, "is_word": 0, "is_transparent": 0, "is_highlight": 0, "scaleMatch": true, "zoomOutDelta": 0.2, "zoomInDelta": 0.2, "badTryCount": 2, "experienceSimilarity": 0.65, "lessGoodSimilarity2": 0.6, "untrustSimilarity": 0.3, "zoom": 0, "histTrustSimilarity": 0.1, "histUntrustSimilarity": 10.0}, "miscellaneous": {}} 
+
+2021-01-19 11:55:44,507 Level 96 MainThread [File "corelib.py", line 336, in click] click  (523, 43, 552, 72)
+
+2021-01-19 11:55:44,598 Level 95 MainThread [File "userapi.py", line 109, in dating] sleep(4) 
+
+2021-01-19 11:55:48,598 Level 95 MainThread [File "userapi.py", line 114, in dating] click("obj_1611027270842.jpg",position=(0.767, 0.477, 0.787, 0.52),position_lock=0,animation=0,is_word=0,is_transparent=0,is_highlight=0) 
+
+2021-01-19 11:55:58,449 INFO Thread-1 [File "projwin.py", line 1418, in newClient] wait for process ready 
+
+2021-01-19 11:55:58,449 INFO Thread-1 [File "projwin.py", line 1439, in newClient] to create client 
+
+2021-01-19 11:55:58,449 INFO Thread-1 [File "projwin.py", line 1445, in newClient] new client ok 
+
